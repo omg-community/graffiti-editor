@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "rbxtsc",
-    "watch": "rbxtsc -w"
+    "watch": "rbxtsc -w",
+    "plugin": "rojo build \"default.project.json\" --output \"../../Roblox/Plugins/GraffitiEditor.rbxm\" --watch"
   },
   "keywords": [],
   "author": "",
