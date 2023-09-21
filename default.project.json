@@ -1,5 +1,5 @@
 {
-	"name": "roblox-ts-plugin",
+	"name": "graffiti-editor",
 	"globIgnorePaths": [
 		"**/package.json",
 		"**/tsconfig.json"

@@ -1,5 +1,5 @@
 {
-	"name": "roblox-ts-plugin-serve",
+	"name": "graffiti-editor",
 	"globIgnorePaths": [
 		"**/package.json",
 		"**/tsconfig.json"
@@ -8,7 +8,7 @@
 		"$className": "DataModel",
 		"ServerScriptService": {
 			"$className": "ServerScriptService",
-			"GraffitiEditor": {
+			"Plugin": {
 				"$path": "./default.project.json"
 			}
 		}
